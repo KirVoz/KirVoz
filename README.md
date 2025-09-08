@@ -1,5 +1,5 @@
 
-# C/C++ systems programming student at 42 Yerevan, passionate about fintech and backend development.
+# C/C++ systems programming student at 42 Yerevan, passionate about fintech, backend and game development.
 
 <picture>
   <img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBsajhha281bzAxNWluOTlheWtnNnJybjV4dzA3M3EyZTVidzFtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pp7BFTh30anDy/giphy.gif" width="232px">
